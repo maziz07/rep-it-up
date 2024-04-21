@@ -16,6 +16,6 @@ span{
 }
 
 .blueShadow:hover {
-    transform: translate(-3px, 3px);
+    transform: translate(-3px, -3px);
     box-shadow: 6px 6px 0 0 #60a5fa;
 }
