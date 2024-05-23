@@ -26,15 +26,18 @@ Follow these instructions to set up the project on your local machine for develo
 - **Clone the repository:**
 ```bash
 git clone https://github.com/maziz07/rep-it-up.git
-cd rep-it-up
+cd rep-it-up 
+```
 
 - **Install Dependencies:**
 ```bash
 npm install
+```
 
 - **Start the deployment Server:**
 ```bash
 npm start
+```
 
 This will run the app in the development mode. Open http://localhost:3000 to view it in the browser.
 
