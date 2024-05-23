@@ -10,7 +10,8 @@ Rep It Up is a gym app designed to help users track their workout routines, set 
 - **User Authentication**: Secure login and registration for personalized experiences.
 
 ## Live Demo
-Check out the live demo [here](https://maziz07.github.io/rep-it-up/).
+Check out the live demo ![Alt text](https://github.com/maziz07/rep-it-up/blob/main/media/app.gif)
+
 
 ## Getting Started
 Follow these instructions to set up the project on your local machine for development and testing purposes.
